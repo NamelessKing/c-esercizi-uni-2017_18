@@ -1,0 +1,11 @@
+Esercizio 1:
+"Inserisci 3 numeri separati da spazio\n"
+"Fattoriale(%d) = %d\n"
+
+Esercizio 2:
+"Inserisci x e y separati da spazio\n"
+"f(%d, %c) = %d\n"
+
+Esercizio 3:
+"Inserisci un numero\n"
+"Fattoriale(%d) = %d\n"
