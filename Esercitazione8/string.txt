@@ -1,0 +1,14 @@
+Esercizio 1:
+"Inserisci un numero:\n"
+"Sequenza terminata\n"
+
+Esercizio 2:
+"Inserisci un numero:\n"
+"La media attuale è: %.3f\n"
+"La media finale è: %.3f\n"
+
+Esercizio 3:
+"Inserisci un numero pari maggiore di 2:\n"
+"Il numero inserito è dispari\n"
+"Il numero deve essere maggiore di 2\n"
+"Goldbach(%d) = %d + %d\n"
